@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmitha9902&label=Profile%20views&color=0e75b6&style=flat" alt="sushmitha9902" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmitha9902" alt="sushmitha9902" /></a> </p>
-
 - 🌱 I’m currently learning **MCA**
 
 - 📫 How to reach me **sushmithahs2004@gmail.com**
@@ -25,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushmitha9902&show_icons=true&locale=en" alt="sushmitha9902" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushmitha9902&" alt="sushmitha9902" /></p>
- 
